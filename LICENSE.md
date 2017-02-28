@@ -1,2 +1,2 @@
 
-Copyright (C) 2017 Fabio Quintana
+Copyright (C) 2017 Hellice Studio
