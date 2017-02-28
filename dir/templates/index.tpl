@@ -1,1 +1,1 @@
-Nome: {$nome}
+Nome: {$nome} ~
