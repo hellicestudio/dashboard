@@ -9,3 +9,4 @@ $smarty->assign('idade','27');
 
 $smarty->display('index.tpl');
 
+?>
